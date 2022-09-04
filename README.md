@@ -8,3 +8,11 @@ The web application uses tools and technologies:
 - JavaScript 
 - CSS
 - Bootstrap 
+
+Other tools to be used later
+#### Databases 
+- MySQL 
+
+#### JavaScript Frameworks
+- Angular 
+- React
